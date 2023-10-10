@@ -1,0 +1,14 @@
+Harmonogram
+
+1. wybór technologii - android, kotlin, jetpack compose
+2. utworzenie harmonogramu pracy
+
+3. stworzenie rdzennych/podstawowych bibliotek oraz motywu aplikacji. Stworzenie głównego ekranu wraz z podstawową nawigacją
+4. dodanie notatek dla nauczyciela
+5. dodanie formularza roku szkolnego, oraz klasy oraz wyświetlanie ich podstawowych informacji
+6. dodanie formularza ucznia oraz przedmiotu oraz wyświetlanie ich podstawowych informacji
+7. dodanie do przedmiotu możliwości wystawiania ocen, aktywności, notatek. Dodanie do ucznia możliwości tworzenia notatek i podglądu jego ocen
+8. dodanie możliwości stworzenia planu zajęć oraz wydarzeń. Dodanie do przedmiotu zakładki, w której można wystawiać frekwencję
+
+9. demonstracja gotowe
+10. 5 XII
